@@ -1,3 +1,10 @@
+# RUN FILE
+
+- git clone https://github.com/MuammarRizal/kkp.git
+- cd kkp
+- npm install
+- npm start
+
 # Status Code HTTP
 
 ## 2xx: Sukses
